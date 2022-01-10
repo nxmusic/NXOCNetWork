@@ -1,0 +1,6 @@
+framework module NXOCNetWork {
+  umbrella header "NXOCNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
